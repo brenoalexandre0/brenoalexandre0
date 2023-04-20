@@ -18,4 +18,4 @@
 
 ## GitHub Stats
 [![stats](https://github-readme-stats.vercel.app/api?username=brenoalexandre0&show_icons=true&count_private=true&include_all_commits?since=2023-01-01T00:00:00Z&until=2023-12-31T23:59:59Z=true&bg_color=0D1117&text_color=FFF&title_color=1a7fbd&icon_color=36afd4)](https://github.com/anuraghazra/github-readme-stats)
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenoalexandre0&layout=compact)](https://github.com/brenoalexandre0)
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenoalexandre0&show_icons=true&bg_color=0D1117&text_color=FFF&title_color=1a7fbd)](https://github.com/brenoalexandre0)
