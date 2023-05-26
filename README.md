@@ -5,7 +5,8 @@
 <div class="ling" style="display: inline_block">
   <img align="center" alt="c" height="30" width="40" src="https://icongr.am/devicon/c-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg">
-  <img align="center" alt="peiton" height="30" width="40" src="https://icongr.am/devicon/python-original.svg">
+  <img align="center" alt="phyton" height="30" width="40" src="https://icongr.am/devicon/python-original.svg">
+  <img align="center" alt="js" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
   <img align="center" alt="jupyter" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg">
 </div>
 
