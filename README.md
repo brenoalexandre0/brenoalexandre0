@@ -16,7 +16,7 @@
 - Learning about Full stack Development, team work, AI, Machine Learning and various programming languages.
 ## Find me and get in touch
 <div> 
-  <a href = "mailto:i000090000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:breno.alexandre198@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ## GitHub Stats
