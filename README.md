@@ -11,9 +11,6 @@
   <img align="center" alt="postgresql" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg">
 </div>
 
-## What I am doing
-- I'm currently stuDying, trying to find a internship and trying to be a better person everyday
-- Learning about Full stack Development, team work, AI, Machine Learning and various programming languages.
 ## Find me and get in touch
 <div> 
   <a href = "mailto:breno.alexandre198@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
