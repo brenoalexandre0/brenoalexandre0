@@ -1,6 +1,4 @@
-# Hello World, I'm Breno Alexandre 👾
-- I love my future wife, programming, animes and games
-- I'm a Software Engineering student at the University of Brasilia (UnB)
+# Hello World
 ## Languages I currently study:
 <div class="ling" style="display: inline_block">
   <img align="center" alt="c" height="30" width="40" src="https://icongr.am/devicon/c-original.svg">
