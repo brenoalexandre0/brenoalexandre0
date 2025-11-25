@@ -9,11 +9,6 @@
   <img align="center" alt="postgresql" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg">
 </div>
 
-## Find me and get in touch
-<div> 
-  <a href = "mailto:breno.alexandre198@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
 ## GitHub Stats
 <div align="center">
   <a href="https://github.com/brenoalexandre0">
