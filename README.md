@@ -8,10 +8,3 @@
   <img align="center" alt="assembly" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-asm-file-912991.png?f=avif&w=256">
   <img align="center" alt="postgresql" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg">
 </div>
-
-## GitHub Stats
-<div align="center">
-  <a href="https://github.com/brenoalexandre0">
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=brenoalexandre0&show_icons=true&theme=tokyonight"/>
-  <img width="38%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoalexandre0&layout=compact&theme=tokyonight"/>
-</div>
